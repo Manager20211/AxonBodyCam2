@@ -1,7 +1,7 @@
 {
-    "axon.startup": {
+    "startup": {
         "sounds": [
-            "axon:startup"
+            "axon:startup.wav"
         ],
         "subtitle": "AXON BodyCam started"
     }
