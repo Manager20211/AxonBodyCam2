@@ -1,0 +1,33 @@
+schema_version: 1
+module_path: ""
+title: AXON BodyCam HUD 模组
+scope:
+    - .gitattributes
+    - .gitignore
+    - README.md
+    - preview.html
+    - build.gradle
+    - gradle.properties
+    - settings.gradle
+    - gradlew.bat
+    - .github/
+    - gradle/
+    - src/
+    - .github\workflows\build.yml
+    - LICENSE
+    - gradle\wrapper\gradle-wrapper.jar
+    - gradle\wrapper\gradle-wrapper.properties
+    - gradlew
+    - src\client\java\cn\pr0xy\client\AXONClient.java
+    - src\client\java\cn\pr0xy\client\BodyCamHUD.java
+    - src\client\java\cn\pr0xy\client\mixin\ExampleClientMixin.java
+    - src\client\resources\axon.client.mixins.json
+    - src\main\java\cn\pr0xy\AXON.java
+    - src\main\java\cn\pr0xy\mixin\ExampleMixin.java
+    - src\main\resources\assets\axon\icon.png
+    - src\main\resources\assets\axon\textures\gui\icon.png
+    - src\main\resources\axon.mixins.json
+    - src\main\resources\fabric.mod.json
+source_files: []
+depends_on: []
+related_to: []
